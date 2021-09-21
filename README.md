@@ -17,5 +17,5 @@ Para verificar a complexidade Ciclomática foi utilizado o plugin Metrics.
 ### Complexidade Ciclomática Inicial
 ![image](https://user-images.githubusercontent.com/56648231/134097326-5caf2733-2d22-4e93-aa56-77d00ac78753.png)
 ### Complexidade Cognitiva Inicial
-![image](https://user-images.githubusercontent.com/56648231/134097362-c3bb6960-3dd2-4566-960b-bead347101f0.png)
+![image](https://user-images.githubusercontent.com/56648231/134097362-c3bb6960-3dd2-4566-960b-bead347101f0.png)  
 
